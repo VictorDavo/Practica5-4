@@ -1,6 +1,6 @@
 /**
 * Interfaz Figura: Es una generalización de una figura geométrica.
-* @author José Gaspar Sánchez García.
+* @author Víctor Davó Antón.
 */
 
 public interface Figura {
